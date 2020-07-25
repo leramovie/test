@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Im comment in master")
+        print("Develop changes")
     }
 
     func funcInMaster(){}
