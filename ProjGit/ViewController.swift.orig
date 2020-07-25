@@ -14,13 +14,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
 <<<<<<< HEAD
-        print("Im print in Master")
+        print("Im comment in master")
 =======
-        print("Some changes in Develop branches")
+        print("Develop changes")
 >>>>>>> develop
     }
 
-    func bugFixInMaster(){}
+    func funcInMaster(){}
 
 }
 
