@@ -13,10 +13,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Im comment in master")
+<<<<<<< HEAD
+        print("Im print in Master")
+=======
+        print("Some changes in Develop branches")
+>>>>>>> develop
     }
 
-    func funcInMaster(){}
+    func bugFixInMaster(){}
 
 }
 
